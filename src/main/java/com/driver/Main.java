@@ -19,7 +19,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        product p = new product();
+        Product p = new Product();
 
         System.out.println(p.product(5, 4));
         System.out.println(p.product(5, 4, 3));
